@@ -1,0 +1,463 @@
+{
+   "data": [
+      {
+         "nome": "John Taylor Cambridge",
+         "jogador": "470765383868219403",
+         "img":"https://m.media-amazon.com/images/I/51EMRSQ030L.jpg",
+         "natureza": "Rebelde",
+         "comportamento": "Solitário",
+         "essencia": "Investigador",
+         "tradicao": "Vazio",
+         "arete": 3,
+         "vontade": 5,
+         "quintessencia": 3,
+         "paradoxo": 0,
+         "antecedentes": [
+            {
+               "arcanum": 3
+            },
+            {
+               "avatar": 3
+            },
+            {
+               "recursos": 1
+            },
+            {
+               "sonho": 1
+            }
+         ],
+         "atributos": {
+            "forca": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "destreza": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "vigor": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "carisma": {
+               "valor": 4,
+               "especializacoes": []
+            },
+            "manipulacao": {
+               "valor": 3,
+               "especializacoes": []
+            },
+            "aparencia": {
+               "valor": 3,
+               "especializacoes": []
+            },
+            "percepcao": {
+               "valor": 3,
+               "especializacoes": []
+            },
+            "inteligencia": {
+               "valor": 3,
+               "especializacoes": []
+            },
+            "raciocinio": {
+               "valor": 2,
+               "especializacoes": []
+            }
+         },
+         "habilidades": {
+            "talentos": {
+               "prontidao": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "esportes": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "consciencia": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "briga": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "esquiva": {
+                  "valor": 2,
+                  "especializacoes": []
+               },
+               "expressao": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "intimidacao": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "lideranca": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "manha": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "labia": {
+                  "valor": 1,
+                  "especializacoes": []
+               }
+            },
+            "pericias": {
+               "oficios": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "conducao": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "etiqueta": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "armas_de_fogo": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "meditacao": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "armas_brancas": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "atuacao": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "furtividade": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "sobrevivencia": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "tecnologia": {
+                  "valor": 0,
+                  "especializacoes": []
+               }
+            },
+            "conhecimentos": {
+               "academicos": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "computador": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "cosmologia": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "enigmas": {
+                  "valor": 2,
+                  "especializacoes": []
+               },
+               "investigacao": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "direito": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "linguistica": {
+                  "valor": 2,
+                  "especializacoes": []
+               },
+               "medicina": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "ocultismo": {
+                  "valor": 2,
+                  "especializacoes": []
+               },
+               "ciencias": {
+                  "valor": 1,
+                  "especializacoes": []
+               }
+            }
+         },
+         "esferas": {
+            "correspondencia": {
+               "valor": 1,
+               "especializacoes": []
+            },
+            "entropia": {
+               "valor": 0,
+               "especializacoes": []
+            },
+            "forcas": {
+               "valor": 1,
+               "especializacoes": []
+            },
+            "vida": {
+               "valor": 1,
+               "especializacoes": []
+            },
+            "mente": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "materia": {
+               "valor": 0,
+               "especializacoes": []
+            },
+            "primordio": {
+               "valor": 0,
+               "especializacoes": []
+            },
+            "espirito": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "tempo": {
+               "valor": 0,
+               "especializacoes": []
+            }
+         },
+         "id": 193345890169079087
+      },
+      {
+         "nome": "Leone",
+         "jogador": "387372272849256459",
+         "natureza": "Sobrevivente",
+         "comportamento": "Mártir",
+         "essencia": "Padrão",
+         "tradicao": "Eutanatos",
+         "arete": 3,
+         "vontade": 10,
+         "quintessencia": 2,
+         "paradoxo": 0,
+         "antecedentes": [
+            {
+               "arcanum": 5
+            },
+            {
+               "avatar": 2
+            }
+         ],
+         "atributos": {
+            "forca": {
+               "valor": 3,
+               "especializacoes": []
+            },
+            "destreza": {
+               "valor": 4,
+               "especializacoes": []
+            },
+            "vigor": {
+               "valor": 3,
+               "especializacoes": []
+            },
+            "carisma": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "manipulacao": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "aparencia": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "percepcao": {
+               "valor": 3,
+               "especializacoes": []
+            },
+            "inteligencia": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "raciocinio": {
+               "valor": 3,
+               "especializacoes": []
+            }
+         },
+         "habilidades": {
+            "talentos": {
+               "prontidao": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "esportes": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "consciencia": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "briga": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "esquiva": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "expressao": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "intimidacao": {
+                  "valor": 2,
+                  "especializacoes": []
+               },
+               "lideranca": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "manha": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "labia": {
+                  "valor": 0,
+                  "especializacoes": []
+               }
+            },
+            "pericias": {
+               "oficios": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "conducao": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "etiqueta": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "armas_de_fogo": {
+                  "valor": 4,
+                  "especializacoes": [
+                     "armas leves"
+                  ]
+               },
+               "meditacao": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "armas_brancas": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "atuacao": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "furtividade": {
+                  "valor": 3,
+                  "especializacoes": []
+               },
+               "sobrevivencia": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "tecnologia": {
+                  "valor": 0,
+                  "especializacoes": []
+               }
+            },
+            "conhecimentos": {
+               "academicos": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "computador": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "cosmologia": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "enigmas": {
+                  "valor": 1,
+                  "especializacoes": []
+               },
+               "investigacao": {
+                  "valor": 2,
+                  "especializacoes": []
+               },
+               "direito": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "linguistica": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "medicina": {
+                  "valor": 0,
+                  "especializacoes": []
+               },
+               "ocultismo": {
+                  "valor": 2,
+                  "especializacoes": []
+               },
+               "ciencias": {
+                  "valor": 0,
+                  "especializacoes": []
+               }
+            }
+         },
+         "esferas": {
+            "correspondencia": {
+               "valor": 1,
+               "especializacoes": []
+            },
+            "entropia": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "forcas": {
+               "valor": 1,
+               "especializacoes": []
+            },
+            "vida": {
+               "valor": 0,
+               "especializacoes": []
+            },
+            "mente": {
+               "valor": 0,
+               "especializacoes": []
+            },
+            "materia": {
+               "valor": 0,
+               "especializacoes": []
+            },
+            "primordio": {
+               "valor": 2,
+               "especializacoes": []
+            },
+            "espirito": {
+               "valor": 0,
+               "especializacoes": []
+            },
+            "tempo": {
+               "valor": 0,
+               "especializacoes": []
+            }
+         },
+         "id": 277553754527428854
+      }
+   ]
+}
